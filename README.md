@@ -23,4 +23,4 @@
 
 **Compétences** : nettoyage, gestion des incohérences, analyses univariées et multivariées
 
-**Fichiers** : `P6_notebook_082026.ipynb`, `P6_presentation_082026.pptx
+**Fichiers** : `P6_notebook_082026.ipynb`, `P6_presentation_082026.pptx`
